@@ -5,5 +5,4 @@ jdk:
 script: ./mvnw clean install
 
 notifications:
-	email: bitlogger11@gmx.de
-	
+ email: bitlogger11@gmx.de
